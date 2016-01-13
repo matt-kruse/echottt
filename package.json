@@ -1,0 +1,16 @@
+{
+  "name": "echottt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Kruse <github@mattkruse.com> (http://mattkruse.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^2.1.2",
+    "querystring": "^0.2.0",
+    "random-string": "^0.1.2"
+  }
+}
